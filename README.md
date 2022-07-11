@@ -1,1 +1,1 @@
-https://socialify.git.ci/shawshankrai/shawshankrai/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Light
+![image](https://user-images.githubusercontent.com/96636835/178373470-ac43f78b-004e-4dd4-8c4a-54956cfb9ca6.png)
